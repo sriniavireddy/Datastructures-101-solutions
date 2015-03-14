@@ -15,8 +15,8 @@ This repo links to solutions of [Datastructures 101](https://github.com/sriniavi
 - [Trie](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#trie)
 - [AVL Tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#avl-tree-)
 - [Red Black Tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#red-black-tree-)
-- [Searching Algorithms] (https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#searching-algorithms-)
-- [Sorting Algorithms] (https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#sorting-algorithms-)
+- [Searching Algorithms] (https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#searching-algorithms)
+- [Sorting Algorithms] (https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#sorting-algorithms)
 
 
 Arrays
